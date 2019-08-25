@@ -12,7 +12,10 @@ We use this repo to organize meetups for womentechmakers chennai.
 
 ## Volunteers 
 
-We are actively looking and working with few volunteers who are passionate about the mission of #Womenintech
+1. Malavika
+2. Juhi Singh
+3. Namitha Sandeep
+4. [Madhura G Joshi](twitter.com/madhuragj)
 
 ## What is this repo all about?
 
